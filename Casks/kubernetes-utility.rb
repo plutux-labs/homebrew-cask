@@ -7,7 +7,7 @@ cask 'kubernetes-utility' do
   sha256 'f1eba61ad9d18dd22998fe8507d086dd1b8a3356d9d0824fa4ef5b6594bbc24e'
 
   depends_on formula: 'kubernetes-cli'
-  depends_on formula: 'johanhaleby/kubetail'
+  depends_on formula: 'johanhaleby/kubetail/kubetail'
 
   app 'Kubernetes Utility.app'
 end
