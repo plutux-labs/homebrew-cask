@@ -1,5 +1,5 @@
 cask 'kubernetes-utility' do
-  url 'https://github.com/plutux-labs/kubernetes-utility/releases/download/v1.1.0/Kubernetes.Utility.Install.dmg'
+  url 'https://github.com/solacens/kubernetes-utility/releases/download/v1.1.0/Kubernetes.Utility.Install.dmg'
   name 'Kubernetes Utility'
   homepage 'kubernetes-utility'
 
